@@ -16,7 +16,7 @@ A FastAPI application providing a JWT-protected CRUD interface for managing book
 1. **Clone this repository:**
    ```bash
    git clone https://github.com/ro-hang/obviously-assessment.git
-   cd fastapi-books-crud
+   cd obviously-assessment
    ```
 
 2. **Create a virtual environment (recommended) and activate it:**
